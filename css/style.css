@@ -1,0 +1,33 @@
+body {
+	background: #aacbff;
+	margin: 0 auto;
+	text-align: center;
+}
+.contactForm {
+	margin-top: 6vh;
+}
+.form-control {
+	width: 500px;
+	margin: 2px auto;
+}
+button {
+	margin: 2vh 0;
+}
+ul {
+	padding: 0;
+	margin-top: 3vh;
+}
+img {
+	height: 65px;
+	width: 65px;
+}
+.contactItem {
+	display: block;
+	padding: 7px;
+	border-bottom: solid 1px black;
+	text-align: left;
+}
+p, a {
+	display: inline-block;
+}
+
