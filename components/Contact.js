@@ -10,6 +10,9 @@ var Contact = React.createClass({
 			<p className={'contactLabel col-3'}>
 				Imię: {this.props.contact.firstName}
 			</p>
+			<p className={'contactLabel col-3'}>
+				Nazwisko: {this.props.item.lastName}
+			</p>
 			<a className={'contactEmail col-3'} href={'mailto:' + this.props.item.email}>
 				{this.props.item.email}
 			</a>

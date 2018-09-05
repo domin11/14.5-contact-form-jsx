@@ -1,23 +1,25 @@
 {
-  "name": "contact-form-jsx",
+  "name": "Form-contact-jsx",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
   "scripts": {
-	"start": "http-server"
+	"start": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/domin11/14.5-contact-form-jsx.git"
   },
-  "author": "domin",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/domin11/14.5-contact-form-jsx/issues"
   },
-  "homepage": "https://github.com/domin11/14.5-contact-form-jsx#readme",
-  "devDependencies": {
-    "http-server": "^0.11.1"
-  }
+  "homepage": "https://github.com/domin11/14.5-contact-form-jsx#readme"
 }
