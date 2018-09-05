@@ -1,0 +1,20 @@
+{
+  "name": "contact-form-jsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domin11/14.5-contact-form-jsx.git"
+  },
+  "author": "domin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domin11/14.5-contact-form-jsx/issues"
+  },
+  "homepage": "https://github.com/domin11/14.5-contact-form-jsx#readme"
+}
